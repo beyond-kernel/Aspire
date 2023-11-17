@@ -1,0 +1,12 @@
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\bin\Debug\net8.0\Aspire.ServiceDefaults.deps.json
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\bin\Debug\net8.0\Aspire.ServiceDefaults.dll
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\bin\Debug\net8.0\Aspire.ServiceDefaults.pdb
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.AssemblyInfo.cs
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.dll
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\refint\Aspire.ServiceDefaults.dll
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\Aspire.ServiceDefaults.pdb
+C:\Users\rafan\OneDrive\Exemplos\Aspire\Aspire.ServiceDefaults\obj\Debug\net8.0\ref\Aspire.ServiceDefaults.dll
