@@ -2,7 +2,7 @@ var builder = DistributedApplication.CreateBuilder(args);
 
 var cache = builder.AddRedis("cache");
 
-var rabbitmq = builder.AddRabbitMQ("rabbitmq");
+var rabbitmq = builder.AddRabbitMQ("rabbitmq").WithManagementPlugin();
 
 var apiService = builder.AddProject<Projects.AspireApp1_ApiService>("apiservice");
 
